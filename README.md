@@ -12,10 +12,6 @@ ensure httpmanager
 exec @pmms/permissions.cfg
 ensure pmms
 
-En cas de Probleme avec ce script rejoint notre serveur discord et ouvre un ticket.
-
-Notre discord : https://discord.gg/NJVHMyxydd
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 EN :
@@ -29,7 +25,3 @@ To make this script work, please put the following lines in your cfg, keeping th
 ensure httpmanager
 exec @pmms/permissions.cfg
 ensure pmms
-
-In case of problem with this script join our discord server and open a ticket.
-
-Our discord: https://discord.gg/NJVHMyxydd
